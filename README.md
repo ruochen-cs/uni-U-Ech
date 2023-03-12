@@ -1,9 +1,8 @@
-# U-charts
+https://raw.githubusercontent.com/ruochen-cs/uni-U-Ech/main/img/image-20230312183249101.png
 
-![image-20230312183249101](img\image-20230312183249101.png)
+https://raw.githubusercontent.com/ruochen-cs/uni-U-Ech/main/img/image-20230312183414902.png
 
-![image-20230312183414902](img\image-20230312183414902.png)
+https://raw.githubusercontent.com/ruochen-cs/uni-U-Ech/main/img/image-20230312183445106.png
 
-![image-20230312183445106](img\image-20230312183445106.png)
+https://raw.githubusercontent.com/ruochen-cs/uni-U-Ech/main/img/image-20230312183530639.png
 
-![image-20230312183530639](img\image-20230312183530639.png)
